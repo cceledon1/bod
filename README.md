@@ -13,17 +13,17 @@ This means that it is not for all public, all kinds of operations, or openly tra
 
 The general characteristics of bod are:
 
-
-Designed for organizations, brands and socially recognized entities.
-It tries to emulate the functioning of the economy and tend towards minimal inflation.
-It is not meant to be converted into current money.
+1-Designed for organizations, brands and socially recognized entities.
+2-It tries to emulate the functioning of the economy and tend towards minimal inflation.
+3-It is not meant to be converted into current money.
 
 
 The technological characteristics of bod are:
 
-Utiliza solamente nombres de dominio ccTLD (ej: .cl) como nombre de usuario.
-No posee un lenguaje único de programación: cualquiera puede programar en su servidor las características según el protocolo bod, para efectuar transacciones.
-No tiene un máximo de unidades de moneda a emitirse.
-Existen 4 formas de minar bod: ingresos, transacciones y minería.
-Se instala en el subdominio "lol" de cada dominio.
-Posee un protocolo de votaciones que permite definir el lugar en que ingresarán los nuevos usuarios.
+1-Use only ccTLD domain names (ex: .cl) as username.
+2-It does not have a unique programming language: anyone can program in its server the characteristics according to the 
+protocol bod, to carry out transactions.
+4-You do not have a maximum of currency units to be issued.
+5-There are 4 ways to mine bod: income, transactions and mining.
+6-It is installed in the subdomain "lol" of each domain.
+7-It has a voting protocol that allows defining the place where new users will enter.
