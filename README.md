@@ -8,26 +8,26 @@
 
 
 <h1>bod system</h1>
-bod es una criptomoneda de uso específico.<br>
-Esto significa que no es para todo público, todo tipo de operaciones, o transable abiertamente en el mercado.<br>
+it is a cryptocurrency for specific use.<br>
+This means that it is not for all public, all kinds of operations, or openly tradable in the market.<br>
 <br>
-Las características generales de bod son:<br>
+The general characteristics of bod are:<br>
 <ol>
-<li>Pensada para organizaciones, marcas y entidades reconocidas socialmente.</li>
-<li>Intenta emular el funcionamiento de la economía y tender a una inflación mínima.</li>
-<li>No está pensada para ser convertida en dinero actual.</li>
+<li>Designed for organizations, brands and socially recognized entities.</li>
+<li>It tries to emulate the functioning of the economy and tend towards minimal inflation.</li>
+<li>It is not meant to be converted into current money.</li>
 </ol>
 
 
 <br>
-Las características tecnológicas de bod son:<br>
+The technological characteristics of bod are:<br>
 <ol>
-<li>Utiliza solamente nombres de dominio ccTLD (ej: .cl) como nombre de usuario.</li>
-<li>No posee un lenguaje único de programación: cualquiera puede programar en su servidor las características según el protocolo bod, para efectuar transacciones.</li>
-<li>No tiene un máximo de unidades de moneda a emitirse.</li>
-<li>Existen 4 formas de minar bod: ingresos, transacciones y minería.</li>
-<li>Se instala en el subdominio "lol" de cada dominio.</li>
-<li>Posee un protocolo de votaciones que permite definir el lugar en que ingresarán los nuevos usuarios.</li>
+<li>Use only ccTLD domain names (ex: .cl) as username.</li>
+<li>It does not have a unique programming language: anyone can program in its server the characteristics according to the protocol bod, to carry out transactions.</li>
+<li>You do not have a maximum of currency units to be issued.</li>
+<li>There are 4 ways to mine bod: income, transactions and mining.</li>
+<li>It is installed in the subdomain "lol" of each domain.</li>
+<li>It has a voting protocol that allows defining the place where new users will enter.</li>
 </ol>
 
 
