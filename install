@@ -1,0 +1,57 @@
+Technical indications for the incorporation of the Cryptocurrency bod protocol:
+
+
+			|                          |
+			|                          |
+			|------.  .------.  .------|
+			|      |  |      |  |      |
+			|      |  |      |  |      |
+			|------'  '------'  '------|
+
+		bod: "Just another cryptocurrency protocol"
+
+
+
+A. Preliminaries:
+
+A.1 Read and accept the conditions of use.
+
+A.2 Download the code pack from an official bod server.
+
+A.3 Download the data base from an official bod server.
+
+
+
+B. Sub-domain configuration:
+
+B.1 Configure in the domain, a sub-domain called "lol" under the main domain.
+
+
+
+C. Install the bod protocol code in the subdomain:
+
+C.1 Decompress the RAR packages from the code folders.
+
+C.2 Upload the decompressed code to the root folder of the subdomain "lol".
+
+C.3 Create on the server a database named "(prefix) _lol"
+
+
+
+D. Install the bod protocol database:
+
+D.1 Create a username and password, and give access permissions.
+
+D.2 Upload in the database already created, the structure file of "lol".
+
+D.3 Configure the file "_config.php" and upload it again to the root of the subdomain.
+
+
+
+Optional:
+
+E. Participate in the community bod.
+
+E.1 Create a password to participate in the community bod.
+
+E.2 Review and contribute to the community bod.
